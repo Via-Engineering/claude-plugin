@@ -1,0 +1,12 @@
+{
+  "name": "via",
+  "version": "0.1.0",
+  "description": "Search electronic components, read datasheets, check pricing and alternates, and build project BOMs in Via.",
+  "author": {
+    "name": "Via",
+    "email": "hello@viabom.com",
+    "url": "https://viabom.com"
+  },
+  "homepage": "https://viabom.com",
+  "keywords": ["electronics", "components", "bom", "datasheets", "hardware", "pcb"]
+}

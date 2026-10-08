@@ -1,0 +1,18 @@
+{
+  "name": "via",
+  "owner": {
+    "name": "Via",
+    "email": "hello@viabom.com"
+  },
+  "metadata": {
+    "description": "Via's electronic component search, datasheets, pricing, alternates and BOM tools for Claude."
+  },
+  "plugins": [
+    {
+      "name": "via",
+      "source": "./via",
+      "description": "Search electronic components, read datasheets, check pricing and alternates, and build project BOMs in Via.",
+      "category": "productivity"
+    }
+  ]
+}

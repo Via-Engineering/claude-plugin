@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "via": {
+      "type": "http",
+      "url": "https://api.viabom.com/mcp"
+    }
+  }
+}
