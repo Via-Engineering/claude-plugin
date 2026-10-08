@@ -1,12 +1,17 @@
 {
   "name": "via",
-  "version": "0.1.0",
+  "displayName": "Via BOM",
+  "version": "0.1.1",
   "description": "Search electronic components, read datasheets, check pricing and alternates, and build project BOMs in Via.",
   "author": {
-    "name": "Via",
+    "name": "Via Engineering Inc.",
     "email": "hello@viabom.com",
     "url": "https://viabom.com"
   },
   "homepage": "https://viabom.com",
+  "repository": "https://github.com/Via-Engineering/claude-plugin",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://viabom.com/privacy",
   "keywords": ["electronics", "components", "bom", "datasheets", "hardware", "pcb"]
 }
