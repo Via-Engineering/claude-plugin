@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "via": {
+    "circuitfield": {
       "type": "http",
       "url": "https://api.viabom.com/mcp"
     }
